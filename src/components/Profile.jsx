@@ -30,18 +30,22 @@ const Profile = () => {
               </Link>
 
               <div className="flex flex-row gap-2 cursor-pointer">
-                <AiFillGithub
-                  size={27}
+                <a
+                  href="https://github.com/JazminBoada"
+                  target="_black"
+                  rel="noopener noreferrer"
                   className="text-[#7D6C5B] hover:scale-110 transform transition-transform duration-300"
-                />
-                <AiFillLinkedin
-                  size={27}
+                >
+                  <AiFillGithub size={27} />
+                </a>
+                <a
+                  href="https://www.linkedin.com/in/jazmin-boada-b99b21306/"
+                  target="_black"
+                  rel="noopener noreferrer"
                   className="text-[#7D6C5B] hover:scale-110 transform transition-transform duration-300"
-                />
-                <AiFillMail
-                  size={27}
-                  className="text-[#7D6C5B] hover:scale-110 transform transition-transform duration-300"
-                />
+                >
+                  <AiFillLinkedin size={27} />
+                </a>
               </div>
             </div>
           </article>

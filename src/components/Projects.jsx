@@ -31,8 +31,8 @@ const Projects = () => {
               { title: "CSS", icon: <FaCss3Alt /> },
               { title: "JavaScript", icon: <IoLogoJavascript /> },
             ]}
-            appLink="#"
-            sourceLink="#"
+            appLink="https://login-design-app.netlify.app/"
+            sourceLink="https://github.com/JazminBoada/login-page"
           />
 
           <ProjectsCards
@@ -45,8 +45,8 @@ const Projects = () => {
               { title: "React", icon: <TbBrandReact /> },
               { title: "Tailwind", icon: <RiTailwindCssFill /> },
             ]}
-            appLink="#"
-            sourceLink="#"
+            appLink="https://botanical-login-design.netlify.app/"
+            sourceLink="https://github.com/JazminBoada/login-design"
           />
 
           <ProjectsCards
@@ -59,8 +59,8 @@ const Projects = () => {
               { title: "CSS", icon: <FaCss3Alt /> },
               { title: "JavaScript", icon: <IoLogoJavascript /> },
             ]}
-            appLink="#"
-            sourceLink="#"
+            appLink="https://todolist-design-app.netlify.app/"
+            sourceLink="https://github.com/JazminBoada/todo-list"
           />
 
           <ProjectsCards
@@ -73,8 +73,8 @@ const Projects = () => {
               { title: "React", icon: <TbBrandReact /> },
               { title: "Tailwind", icon: <RiTailwindCssFill /> },
             ]}
-            appLink="#"
-            sourceLink="#"
+            appLink="https://restaurant-foodie-web.netlify.app/"
+            sourceLink="https://github.com/JazminBoada/restaurant-website"
           />
 
           <ProjectsCards
@@ -87,8 +87,8 @@ const Projects = () => {
               { title: "CSS", icon: <FaCss3Alt /> },
               { title: "React", icon: <TbBrandReact /> },
             ]}
-            appLink="#"
-            sourceLink="#"
+            appLink="https://jsreact-weather-app.netlify.app/"
+            sourceLink="https://github.com/JazminBoada/weather-app"
           />
 
           <ProjectsCards
@@ -101,8 +101,8 @@ const Projects = () => {
               { title: "CSS", icon: <FaCss3Alt /> },
               { title: "JavaScript", icon: <IoLogoJavascript /> },
             ]}
-            appLink="#"
-            sourceLink="#"
+            appLink="https://traslator-app.netlify.app/"
+            sourceLink="https://github.com/JazminBoada/traslator-app"
           />
         </div>
       </div>

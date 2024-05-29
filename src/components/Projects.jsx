@@ -53,7 +53,7 @@ const Projects = () => {
             key={3}
             image={img3}
             title="TODO List App"
-            text="TODO list web app to manage your daily tasks"
+            text=" Web app to manage your daily tasks"
             buttons={[
               { title: "HTML5", icon: <FaHtml5 /> },
               { title: "CSS", icon: <FaCss3Alt /> },
